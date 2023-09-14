@@ -10,7 +10,8 @@ This project is used to extract the results from the parliamentary elections in 
 The libraries that are used in the code are stored in the requirements.txt file. For installation, I recommend using a new virtual environment and running it as follows with the manager installed.
 
 ```bash
-$ pip3 --verison                    # version verification $ pip3 install -r requirements.txt  # installing libraries
+$ pip3 --verison                    # version verification 
+$ pip3 install -r requirements.txt  # installing libraries
 ```
 
 ## Project launch
